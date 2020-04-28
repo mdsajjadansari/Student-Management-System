@@ -1,5 +1,5 @@
 # Student Management System
-
+ ![](https://github.com/mdsajjadansari/Student-Management-System/blob/master/Outputs/Home.png)
 This repository is the code directory for the Project I have completed and named as `Student Management System` using Visual Studio.
 
 ### Features:
